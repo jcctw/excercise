@@ -1,0 +1,6 @@
+name = input ("please write down your name:")
+print("Hey, my name is", name)
+height = input ("please write down your height:")
+print("My height is",height)
+weight = input ("please write down your weight:")
+print("My weight is",weight)
